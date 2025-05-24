@@ -88,6 +88,8 @@ spring.jpa.hibernate.ddl-auto=update
 ---
 
 ### ✅ Frontend (React.js with Vite)
+npm create vite@latest my-react-app -- --template react
+cd my-react-app
 
 **Install Dependencies:**
 ```bash
