@@ -7,6 +7,8 @@ This is a simple full stack **Task Manager** application built using:
 - **Object-Relational Mapping:** Spring Data JPA
 - **API Communication:** Axios
 
+
+
 ---
 
 ## 🔧 Project Setup Instructions
